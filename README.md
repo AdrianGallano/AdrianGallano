@@ -7,7 +7,7 @@
 
 <p >I present to you my most used "Ooga Booga Languages"</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGallano&layout=compact&hide=html&theme=onedark)](https://github.com/AdrianGallano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGallano&layout=compact&hide=html,css&theme=onedark)](https://github.com/AdrianGallano/github-readme-stats)
 
 <img src="./images/pussinboots.gif"/>
 <p> hmmm... tbh idk what to write about lol </p>
