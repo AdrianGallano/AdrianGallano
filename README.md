@@ -1,8 +1,6 @@
 <img src="./images/banneraidcprs.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Adrian Gallano</h1>
 <h3 align="center">Stoic at day | Programmer at night ( I build software related to climate change and more )</h3>
-<img align="right" width="400" src="./images/pussinboots.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriangallano&label=Profile%20views&color=0e75b6&style=flat" alt="adriangallano" /> </p>
 
 - 🔭 I’m currently working on **Everything :)**
