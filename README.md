@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Everything :)**
 
-- 🌱 I’m currently learning **Javascript, python, and java**
+- 🌱 I’m currently learning **C# and JAVASCRIPT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aidgallano/**
 
