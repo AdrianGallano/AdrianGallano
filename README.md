@@ -3,9 +3,9 @@
 <h3 align="center">Stoic at day | Programmer at night ( I build software related to climate change and more )</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriangallano&label=Profile%20views&color=0e75b6&style=flat" alt="adriangallano" /> </p>
 
-- 🔭 I’m currently working on **Everything :)**
+- 🔭 I’m currently working on **A Big Project**
 
-- 🌱 I’m currently learning **C# and JAVASCRIPT**
+- 🌱 I’m currently learning **Python and JAVASCRIPT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aidgallano/**
 
