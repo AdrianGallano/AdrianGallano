@@ -2,7 +2,7 @@
 
 ```
 Hello world...
-I am adrian gallano 👋
+I am adrian cris gallano 👋
 
 My mission is to leverage my life, and to achieve that, 
 i believe that contributing to our community is essential.
